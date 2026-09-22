@@ -1,8 +1,24 @@
 ## Hi there 👋
 
-I'm currently learning Web Development and Have some experience with python.
-
 👨🏻‍💻 Languages and tools
+
+-Currently Learning
+<br><br>
+<img width="50" height="50" alt="nikin-javascript-8543231_640" src="https://github.com/user-attachments/assets/af33c5ff-c4eb-4d5d-801c-2893dbb5ca4c" />
+<img width="50" height="50" alt="b3nj5m1n-logo-2582747_640" src="https://github.com/user-attachments/assets/88294d6e-46be-4a13-9e5e-f468df8d11a1" />
+<img width="50" height="50" alt="raphaelsilva-html5-3384014_640" src="https://github.com/user-attachments/assets/33867663-7588-4d3a-8863-79d77eee76ca" />
+<img width="50" height="50" alt="Näyttökuva 2026-09-22 093851" src="https://github.com/user-attachments/assets/203be3af-d3ad-4391-8401-ea298166d7cb" />
+<br><br>
+-Have Some experience with
+<br><br>
+<img width="50" height="50" alt="py" src="https://github.com/user-attachments/assets/0252c6ab-6699-4c24-b655-0b1d47f75349" />
+<br><br>
+
+Team Projects I have contributed in 
+<br><br>
+[Month Calendar](https://github.com/PePeMikko/Month-Calendar)
+[Landing Page](https://github.com/PePeMikko/Group-Project-Landing-Page)
+
 
 
 
