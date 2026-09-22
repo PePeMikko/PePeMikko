@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm currently learning Web Development and Have some experience with python.
+
+👨🏻‍💻 Languages and tools
+
+
+
 <!--
 **PePeMikko/PePeMikko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
