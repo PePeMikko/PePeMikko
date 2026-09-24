@@ -1,22 +1,25 @@
 ## Hi there 👋
+<img width="640" height="480" alt="thedigitalartist-graphic-8954271_640" src="https://github.com/user-attachments/assets/0fe45384-ec4f-443d-9ff4-55fd94ad91f0" />
+<p>Hello, I'm Mikko. I'm Currently learning programming and eager to get more knowledge on the subject.</p>
 
 ## 🧭 About Me
 
 👨🏻‍💻 Languages and tools
 
 -Currently Learning
-<br><br>
-<img width="50" height="50" alt="nikin-javascript-8543231_640" src="https://github.com/user-attachments/assets/af33c5ff-c4eb-4d5d-801c-2893dbb5ca4c" />
-<img width="50" height="50" alt="b3nj5m1n-logo-2582747_640" src="https://github.com/user-attachments/assets/88294d6e-46be-4a13-9e5e-f468df8d11a1" />
-<img width="50" height="50" alt="raphaelsilva-html5-3384014_640" src="https://github.com/user-attachments/assets/33867663-7588-4d3a-8863-79d77eee76ca" />
-<img width="50" height="50" alt="Näyttökuva 2026-09-22 093851" src="https://github.com/user-attachments/assets/203be3af-d3ad-4391-8401-ea298166d7cb" />
-<br><br>
+<p>
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="css" src="https://img.shields.io/badge/-CSS-8a2be2?=flat-square&logo=css3&logoColor=white" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 -Have Some experience with
-<br><br>
-<img width="50" height="50" alt="py" src="https://github.com/user-attachments/assets/0252c6ab-6699-4c24-b655-0b1d47f75349" />
-<br><br>
+<p>
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=git&logoColor=white"
+</p>
 
-## 🗃️ Archive
+
+## 📚 Archive
 ### 👤 Projects
 | Project Name | Source Code | Description | Status |
 | ----------- | :-----------: | ----------- | ----------- |
