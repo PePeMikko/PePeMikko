@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## 🧭 About Me
+
 👨🏻‍💻 Languages and tools
 
 -Currently Learning
@@ -14,10 +16,16 @@
 <img width="50" height="50" alt="py" src="https://github.com/user-attachments/assets/0252c6ab-6699-4c24-b655-0b1d47f75349" />
 <br><br>
 
-Team Projects I have contributed in 
-<br><br>
-[Month Calendar](https://github.com/PePeMikko/Month-Calendar)
-[Landing Page](https://github.com/PePeMikko/Group-Project-Landing-Page)
+## 🗃️ Archive
+### 👤 Projects
+| Project Name | Source Code | Description | Status |
+| ----------- | :-----------: | ----------- | ----------- |
+
+### 👤 Group Projects
+| Project Name | Source Code | Description | Status |
+| ----------- | :-----------: | ----------- | ----------- |
+| [Month Calendar](https://github.com/PePeMikko/Month-Calendar) | [LINK]() | Month Calendar created using HTML, CSS, JavaScript | ✅ Complete |
+| [Landing Page](https://github.com/PePeMikko/Group-Project-Landing-Page) | [LINK]() | Landing Page created using HTML, CSS | ✅ Complete |
 
 
 
