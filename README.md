@@ -17,7 +17,6 @@
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
-<br></br>
 -Tools I use
 <p>
   <img alt="Vs Code" src="https://img.shields.io/badge/-VsCode-007ACC?style=flat-square&logo=visualstudio&logoColor=white" />
