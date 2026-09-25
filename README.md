@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 <img width="640" height="480" alt="thedigitalartist-graphic-8954271_640" src="https://github.com/user-attachments/assets/0fe45384-ec4f-443d-9ff4-55fd94ad91f0" />
 <p>Hello, I'm Mikko. I'm Currently learning programming and eager to get more knowledge on the subject.</p>
 
