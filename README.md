@@ -20,7 +20,7 @@
 <br></br>
 -Tools I use
 <p>
-  <img alt="Vs Code" src="https://img.shields.io/badge/-VsCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Vs Code" src="https://img.shields.io/badge/-VsCode-007ACC?style=flat-square&logo=visualstudio&logoColor=white" />
 </p>
 
 
