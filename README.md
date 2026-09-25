@@ -32,8 +32,8 @@
 ### 👤 Group Projects
 | Project | Site | Description | Status |
 | ----------- | :-----------: | ----------- | ----------- |
-| [Month Calendar](https://github.com/PePeMikko/Month-Calendar) | [LINK]() | Month Calendar created using HTML, CSS, JavaScript | ✅ Complete |
-| [Landing Page](https://github.com/PePeMikko/Group-Project-Landing-Page) | [LINK]() | Landing Page created using HTML, CSS | ✅ Complete |
+| [Month Calendar](https://github.com/PePeMikko/Month-Calendar) | [LINK](https://pepemikko.github.io/Month-Calendar/) | Month Calendar created using HTML, CSS, JavaScript | ✅ Complete |
+| [Landing Page](https://github.com/PePeMikko/Group-Project-Landing-Page) | [LINK](https://pepemikko.github.io/Group-Project-Landing-Page/) | Landing Page created using HTML, CSS | ✅ Complete |
 | [Weather App](https://github.com/PePeMikko/Weather-App) | [LINK](https://pepemikko.github.io/Weather-App/) | Weather App created using HTML, CSS, JavaScript | ✅ Complete |
 
 
