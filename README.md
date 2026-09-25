@@ -26,14 +26,15 @@
 
 ## 📚 Archive
 ### 👤 Projects
-| Project Name | Source Code | Description | Status |
+| Project | Site | Description | Status |
 | ----------- | :-----------: | ----------- | ----------- |
 
 ### 👤 Group Projects
-| Project Name | Source Code | Description | Status |
+| Project | Site | Description | Status |
 | ----------- | :-----------: | ----------- | ----------- |
 | [Month Calendar](https://github.com/PePeMikko/Month-Calendar) | [LINK]() | Month Calendar created using HTML, CSS, JavaScript | ✅ Complete |
 | [Landing Page](https://github.com/PePeMikko/Group-Project-Landing-Page) | [LINK]() | Landing Page created using HTML, CSS | ✅ Complete |
+| [Weather App](https://github.com/PePeMikko/Weather-App) | [LINK](https://pepemikko.github.io/Weather-App/) | Weather App created using HTML, CSS, JavaScript | ✅ Complete |
 
 
 
