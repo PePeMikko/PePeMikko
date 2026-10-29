@@ -27,6 +27,8 @@
 ### 👤 Projects
 | Project | Site | Description | Status |
 | ----------- | :-----------: | ----------- | ----------- |
+| [Mikko Timer](https://github.com/PePeMikko/Mikko-TImer) | [LINK](https://pepemikko.github.io/Mikko-TImer/) | Mikko Timer created using HTML, CSS, JavaScript | ✅ Complete |
+| [Preview Card](https://github.com/PePeMikko/Preview-Card) | [LINK](https://pepemikko.github.io/Preview-Card/) | Preview Card created using HTML, CSS | ✅ Complete |
 
 ### 👤 Group Projects
 | Project | Site | Description | Status |
